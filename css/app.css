@@ -15,4 +15,23 @@ h1, h2, h3, h4, h5, h6 {
 #logo-container .callout {
   background-color: #E32D40;
   color: white;
+  margin-bottom: 0;
+}
+
+#menu-container, #submenu-container {
+  background-color: #59B390;
+}
+
+#menu-container li a, #submenu-container li a {
+  color: white;
+  font-family: 'Hind', sans-serif;
+}
+
+#menu-container li a:hover,
+#submenu-container li a:hover {
+  color: #F0DDAA;
+}
+
+#submenu-container {
+  border: 0;
 }
