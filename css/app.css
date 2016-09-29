@@ -1,7 +1,7 @@
-.row {
-  border: 1px solid blue;
+body {
+  background-color: #152B3C;
 }
 
-.column {
-  border: 1px solid red;
+.social-container {
+  background-color: #E32D40;
 }
