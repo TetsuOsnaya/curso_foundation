@@ -1,7 +1,18 @@
 body {
   background-color: #152B3C;
+  font-family: 'Hind', sans-serif;
 }
 
-.social-container {
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Hind', sans-serif;
+  font-weight: 700;
+}
+
+#social-container {
   background-color: #E32D40;
+}
+
+#logo-container .callout {
+  background-color: #E32D40;
+  color: white;
 }
