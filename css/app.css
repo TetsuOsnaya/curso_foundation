@@ -35,3 +35,20 @@ h1, h2, h3, h4, h5, h6 {
 #submenu-container {
   border: 0;
 }
+
+#tickets-action .callout {
+  background-color: #F0DDAA;
+  color: #152B3C;
+}
+
+#tickets-action .callout button{
+  background-color: #E32D40;
+  color: white;
+  border: 1px solid #E32D40;
+}
+
+#tickets-action .callout button:hover {
+  background-color: #152B3C;
+  color: white;
+  border: 1px solid #152B3C;
+}
